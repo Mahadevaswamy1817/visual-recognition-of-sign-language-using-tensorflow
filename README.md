@@ -1,0 +1,1 @@
+iThe main The aim of this project is to help bridge the communication gap between hearing/speech-impaired individuals and others. It demonstrates the use of computer vision, deep learning, and real-time gesture recognition in solving real-world problems.
